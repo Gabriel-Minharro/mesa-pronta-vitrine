@@ -1,6 +1,6 @@
 # Mesa Pronta
 
-Sistema de comandas para restaurantes: os atendentes lançam os pedidos pelo celular, a comanda sai na impressora térmica da cozinha e o dono gerencia cardápio, equipe e balanços. Tudo roda em um único computador dentro do restaurante, sem mensalidade e sem depender de internet.
+Sistema de comandas para restaurantes: os atendentes lançam os pedidos pelo celular, a comanda sai na impressora térmica da cozinha e o dono gerencia cardápio, equipe e balanços. Tudo roda em um único computador dentro do restaurante, sem depender de internet.
 
 Este repositório é a **vitrine pública** do Mesa Pronta. O código-fonte fica em um repositório privado; aqui ficam só os instaladores publicados em [Releases](../../releases).
 
